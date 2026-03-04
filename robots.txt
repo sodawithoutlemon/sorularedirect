@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /android/
+Disallow: /ios/
+
+Sitemap: https://sorula.app/sitemap.xml
